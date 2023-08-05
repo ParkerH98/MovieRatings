@@ -1,4 +1,4 @@
-*.csv
+# *.csv
 *.cpython
 
 /__pycache__
